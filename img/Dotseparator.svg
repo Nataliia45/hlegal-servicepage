@@ -1,0 +1,32 @@
+<svg width="7" height="18" viewBox="0 0 7 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="7" height="18" fill="#E5E5E5"/>
+<g id="Service entry / Desktop SD" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="1974" transform="translate(-180 -775)" fill="white"/>
+<g id="Splash">
+<g id="Frame 3">
+<path d="M-180 -775H1260V353C1260 359.627 1254.63 365 1248 365H-168C-174.627 365 -180 359.627 -180 353V-775Z" fill="url(#paint0_linear_0_1)"/>
+<g id="Frame 3_2">
+<g id="Frame 3_3">
+<g id="Coll">
+<g id="Item">
+<g id="Dot separator">
+<circle id="Dot separator_2" cx="3.04395" cy="15" r="3" fill="#F0145A"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="936.5" y1="-775" x2="23.6675" y2="242.718" gradientUnits="userSpaceOnUse">
+<stop stop-color="#323264"/>
+<stop offset="0.598958" stop-color="#323264"/>
+<stop offset="1" stop-color="#643E72"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="1974" fill="white" transform="translate(-180 -775)"/>
+</clipPath>
+</defs>
+</svg>
